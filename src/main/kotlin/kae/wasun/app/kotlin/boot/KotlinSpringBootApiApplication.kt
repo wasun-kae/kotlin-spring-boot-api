@@ -1,4 +1,4 @@
-package kae.wasun.app.kotlin.api
+package kae.wasun.app.kotlin.boot
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class KotlinSpringBootApiApplication
 
 fun main(args: Array<String>) {
-	runApplication<KotlinSpringBootApiApplication>(*args)
+    runApplication<KotlinSpringBootApiApplication>(*args)
 }
