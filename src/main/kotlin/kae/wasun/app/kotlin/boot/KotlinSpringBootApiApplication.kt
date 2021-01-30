@@ -1,4 +1,4 @@
-package kae.wasun.app.kotlin.api
+package kae.wasun.app.kotlin.boot
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

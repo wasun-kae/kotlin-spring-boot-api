@@ -1,4 +1,4 @@
-package kae.wasun.app.kotlin.api
+package kae.wasun.app.kotlin.boot
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
